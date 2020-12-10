@@ -22,3 +22,10 @@ It is very important for a person to understand the different possible attacks i
 ## Summary of files
 ### 1. Data Source: [abc](_)
 
+### 2. Data Folder 
+[NSL-KDD]()
+
+### 3. Notebooks
+[Report]()
+[EDA]()
+
