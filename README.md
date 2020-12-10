@@ -20,12 +20,12 @@ It is very important for a person to understand the different possible attacks i
 2. Understanding the classes of attacks and their significance in the data set.
 
 ## Summary of files
-### 1. Data Source: [abc](_)
+### Data Source: [abc](_)
 
-### 2. Data Folder 
+### Data Folder 
 [NSL-KDD]()
 
-### 3. Notebooks
-[Report]()  
-[EDA]()
+### Notebooks
+1. [Report]()  
+2. [EDA]()
 
