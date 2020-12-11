@@ -17,7 +17,6 @@ It is very important for a person to understand the different possible attacks i
 
 1. The main goal of the project is compare different methods of classification and understand which type is more effective in finding accuracy.   
 
-2. Understanding the classes of attacks and their significance in the data set.
 
 ## Summary of files
 ### Data Source 
