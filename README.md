@@ -26,6 +26,6 @@ It is very important for a person to understand the different possible attacks i
 1. [NSL-KDD](https://github.com/ashuthoshc/CyberThreat_NID_Classification_Report/tree/main/Datasets)
 
 ### Notebooks
-1. [Report]()  
-2. [EDA]()
+1. [CyberThreat_NID_Classification_Report](https://github.com/ashuthoshc/CyberThreat_NID_Classification_Report/blob/main/Notebooks/CyberThreat_NID_Classification_Report%20(1).ipynb)  
+2. [CyberThreat_NID_Classification_EDA]()
 
